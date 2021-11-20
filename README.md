@@ -1,7 +1,7 @@
 ### Hi! I am Aiman 
 
 ## I am an aspiring Web Developer, and an Electrical Engineer
-- My recent projects are [password-generator] and a [landing-page]. 
+- My recent projects are Password Generator and a Landing Page. 
 - I am learning JavaScript these days
 
 ### Get in touch:
@@ -13,6 +13,3 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 
-[password-generator] : (https://github.com/aim-t/Password-Generator)
-[landing-page] : (https://github.com/aim-t/sunnyside-agency-landing-page-main)
-[linkedin] : (https://www.linkedin.com/in/aiman-tariq-sarwar/)
