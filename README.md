@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Aiman</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [a frontendmentor challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100)
+- 🔭 I’m currently working my way through [The Odin Project](https://www.theodinproject.com/)
 
 - 🌱 These days, I am learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [github.com/aim-t](github.com/aim-t)
+- 👨‍💻 All of my projects are available on [github.com/aim-t](github.com/aim-t)
 
 - 💬 Ask me about **Html, Css , Vanilla JS**
 
