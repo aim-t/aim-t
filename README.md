@@ -1,20 +1,22 @@
-<h1 align="center">Hi , I'm Aiman</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+# Hi there 👋
 
-- 🔭 I’m currently working my way through [The Odin Project](https://www.theodinproject.com/)
+## About Me
+Welcome to my GitHub profile! I am Aiman Tariq, a **Fullstack Web Developer** with a strong interest in MERN stack. I am always eager to expand my knowledge and keep up with the latest trends in web development. I am open to learning new technologies and frameworks that can enhance my skills and help me build even more robust and efficient applications.
 
-- 🌱 These days, I am learning **JavaScript**
+## Skills
+- **Frontend**: HTML, CSS, JavaScript, React, Material UI, Bootstrap
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Testing**: Jest
+- **State Management**: Redux
+- **Version Control**: Git
+- **API Testing**: Postman
+- **Project Management**: Jira
 
-- 👨‍💻 All of my projects are available on [github.com/aim-t](github.com/aim-t)
+## Contact Me
+Feel free to reach out to me through the following channels. <br/>
+<a href="mailto:aimantariqsarwar@gmail.com" target="_blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-email-2.png" alt="aimantariqsarwar@gmail.com" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/aiman-tariq-sarwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiman-tariq-sarwar" height="30" width="40" /></a>
+<a href="https://aimantariq.tech/" target="_blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-globe-thin.png" alt="aimantariqsarwar@gmail.com" height="30" width="30" /></a>
 
-- 💬 Ask me about **Html, Css , Vanilla JS**
-
-- 📫 How to reach me **aimantariqsarwar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aiman-tariq-sarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiman-tariq-sarwar" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+I am always open to new opportunities and collaborations. Let's connect and build something amazing together!
